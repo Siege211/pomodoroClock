@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-image: url('http://res.cloudinary.com/siege211/image/upload/c_scale,h_1000/v1533410780/cold-daylight-desktop-backgrounds-1287145.jpg');
+}
